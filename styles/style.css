@@ -226,7 +226,6 @@ ol {
   -webkit-line-clamp: 4;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
   padding-top: 4px;
   padding-left: 1px;
 }
